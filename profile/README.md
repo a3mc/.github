@@ -4,8 +4,7 @@
   <img src="https://art3mis.cloud/assets/images/logo.png" title="ART3MIS.CLOUD" alt="A3MC" width="200"/>
 </div>
 
-
-* :star: Our international decentralized team is scattered around the globe, but united by same passion. :star: *
+:star: *Our international decentralized team is scattered around the globe, but united by same passion* :star:
 
 ![a3mc](https://github.com/a3mc/.github/assets/5249664/c76a73f1-63a0-4b76-b8f5-d9f2ad2f2212)
 
