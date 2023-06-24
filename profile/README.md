@@ -12,6 +12,7 @@ We encourage and support professional blockchain developers and scientists in th
 
 https://github.com/a3mc/.github/assets/5249664/81a20273-728d-4ad4-b5af-f51d16b11690
 
+![a3mc](https://github.com/a3mc/.github/assets/5249664/c76a73f1-63a0-4b76-b8f5-d9f2ad2f2212)
 
 Blockchain technology, smart contracts and cryptography are fast becoming an essential part of the modern world.
 
