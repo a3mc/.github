@@ -16,3 +16,8 @@ It seems there are more blockchains around than croissants in France, who each h
 Nevertheless, we did extensive research into each competitive candidate to decide which ones serve a purpose. By sharing our knowledge <b>we help developers and scientists</b> make informed decisions onto which blockchains they would want to unleash their brain product and how to approach the ecosystem in which it should live and thrive.
 
 **We help build castles on a blockchain.**
+
+<div>
+  <img style="margin:10px;" src="https://art3mis.cloud/assets/images/avax.png" width="100" height="100" alt="Avax" title="Avax">
+  <img style="margin:10px;" src="https://art3mis.cloud/assets/images/casperlabs.png" width="100" height="100" alt="Casper" title="Casper">
+</div>
