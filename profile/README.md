@@ -22,7 +22,7 @@ Nevertheless, we did extensive research into each competitive candidate to decid
   
 <div align="center">
 
-  ![a3mc1](https://github.com/a3mc/.github/assets/5249664/bc19183c-c63c-4d87-a06d-88c9c5bf1e77)
+  ![a3mc1](https://github.com/a3mc/.github/assets/5249664/32b0de73-17f7-484c-9bc0-1895ca072fc4)
 </div>
 
 <br>
