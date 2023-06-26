@@ -6,9 +6,9 @@
   </div>
 </div>
 
-<div>
+<br><br><br>
 We encourage and support professional blockchain developers and scientists in the fields of mathematics, cryptography, programming languages and related interdisciplinary sub-fields, by using high-standard, industry quality tools and skills.
-</div>
+
 Blockchain technology, smart contracts and cryptography are fast becoming an essential part of the modern world.
 
 It seems there are more blockchains around than croissants in France, who each have their own specific properties, applications and possibilities. Sadly, most of those croissants won't be around anymore in the foreseeable future. On the internet within each specific niche it is usually a winner-takes-all situation.
