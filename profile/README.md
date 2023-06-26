@@ -1,10 +1,10 @@
 ## 🔭 &nbsp; INDEPENDENT RESEARCH LAB 
 
 <div>
-  <img src="https://art3mis.cloud/assets/images/logo.png" title="ART3MIS.CLOUD" alt="A3MC" width="200" align="left"/>
+  <img src="https://art3mis.cloud/assets/images/logo.png" title="ART3MIS.CLOUD" alt="A3MC" width="240" align="left"/>
   <div align="right">
     🌐 Our international decentralized team is scattered around the globe, but united by same passion
-    /div>
+    </div>
 </div>
 
 We encourage and support professional blockchain developers and scientists in the fields of mathematics, cryptography, programming languages and related interdisciplinary sub-fields, by using high-standard, industry quality tools and skills.
