@@ -9,6 +9,7 @@
 
 <br>
 <b>Blockchain</b> technology, smart <b>contracts</b> and <b>cryptography</b> are fast becoming an essential part of the modern world.
+<br><br>
 
 It seems there are more blockchains around than croissants in France, who each have their own specific properties, applications and possibilities. Sadly, most of those croissants won't be around anymore in the foreseeable future. On the internet within each specific niche it is usually a winner-takes-all situation.
 
