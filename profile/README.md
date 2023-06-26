@@ -18,6 +18,12 @@ Nevertheless, we did extensive research into each competitive candidate to decid
 **We help build castles on a blockchain.**
 
 <div>
-  <img style="margin:10px;" src="https://art3mis.cloud/assets/images/avax.png" width="100" height="100" alt="Avax" title="Avax">
-  <img style="margin:10px;" src="https://art3mis.cloud/assets/images/casperlabs.png" width="100" height="100" alt="Casper" title="Casper">
+  <img style="margin:15px;" src="https://art3mis.cloud/assets/images/avax.png" width="80" height="80" alt="Avax" title="Avax">
+  <img style="margin:15px;" src="https://art3mis.cloud/assets/images/casperlabs.png" width="80" height="80" alt="Casper" title="Casper">
+  <img style="margin:15px;" src="https://art3mis.cloud/assets/images/dogecash2.png" width="80" height="80" alt="DogeCash" title="DogeCash">
+  <img style="margin:15px;" src="https://art3mis.cloud/assets/images/elrond2.png" width="80" height="80" alt="MultiversX" title="MultiversX">
+  <img style="margin:15px;" src="https://art3mis.cloud/assets/images/graph.png" width="80" height="80" alt="Graph Protocol" title="Graph Protocol">
+  <img style="margin:15px;" src="https://art3mis.cloud/assets/images/mina.png" width="80" height="80" alt="Mina Protocol" title="Mina Protocol">
+  <img style="margin:15px;" src="https://art3mis.cloud/assets/images/solana1.png" width="80" height="80" alt="Solana" title="Solana">
+  <img style="margin:15px;" src="https://art3mis.cloud/assets/images/umee.png" width="80" height="80" alt="Umee" title="Umee">
 </div>
