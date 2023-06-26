@@ -19,7 +19,7 @@ Nevertheless, we did extensive research into each competitive candidate to decid
 
 <br>
 <div align="center">
-  Supporting networks, building tools and making research for:<br><br>
+  <i>Supporting networks, building tools and making research for:</i><br><br>
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/avax.png" width="80" height="80" alt="Avax" title="Avax">
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/casperlabs.png" width="80" height="80" alt="Casper" title="Casper">
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/dogecash2.png" width="80" height="80" alt="DogeCash" title="DogeCash">
