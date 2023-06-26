@@ -1,12 +1,9 @@
 ## 🔭 &nbsp; INDEPENDENT RESEARCH LAB 
 
 <div>
-  <img src="https://art3mis.cloud/assets/images/logo.png" title="ART3MIS.CLOUD" alt="A3MC" width="200"/>
+  <img src="https://art3mis.cloud/assets/images/logo.png" title="ART3MIS.CLOUD" alt="A3MC" width="200" style="float:left"/>
+  <div style="float:right">:star: *Our international decentralized team is scattered around the globe, but united by same passion* :star:</div>
 </div>
-
-:star: *Our international decentralized team is scattered around the globe, but united by same passion* :star:
-
-![a3mc](https://github.com/a3mc/.github/assets/5249664/c76a73f1-63a0-4b76-b8f5-d9f2ad2f2212)
 
 We encourage and support professional blockchain developers and scientists in the fields of mathematics, cryptography, programming languages and related interdisciplinary sub-fields, by using high-standard, industry quality tools and skills.
 
