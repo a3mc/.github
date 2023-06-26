@@ -17,6 +17,8 @@ Nevertheless, we did extensive research into each competitive candidate to decid
 
 🔥 **We help build castles on a blockchain.**
 
+![a3mc1](https://github.com/a3mc/.github/assets/5249664/bc19183c-c63c-4d87-a06d-88c9c5bf1e77)
+
 <br>
 <div align="center">
   <i>Supporting networks, building tools and making research for:</i><br><br>
