@@ -16,9 +16,10 @@ It seems there are more blockchains around than croissants in France, who each h
 Nevertheless, we did extensive research into each competitive candidate to decide which ones serve a purpose. By sharing our knowledge <b><i>we help developers and scientists</i></b> make informed decisions onto which blockchains they would want to unleash their brain product and how to approach the ecosystem in which it should live and thrive.
 
 
-
+🔥 **We help build castles on a blockchain.**
+  
 <div style="background:#000; text-align: center; padding: 30px;" align="center">
-  🔥 **We help build castles on a blockchain.**
+
   
   ![a3mc1](https://github.com/a3mc/.github/assets/5249664/bc19183c-c63c-4d87-a06d-88c9c5bf1e77)
 
