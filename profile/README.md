@@ -17,7 +17,9 @@ Nevertheless, we did extensive research into each competitive candidate to decid
 
 **We help build castles on a blockchain.**
 
-<div>
+<br>
+<div align="center">
+  Supporting networks, building tools and making research for:<br><br>
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/avax.png" width="80" height="80" alt="Avax" title="Avax">
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/casperlabs.png" width="80" height="80" alt="Casper" title="Casper">
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/dogecash2.png" width="80" height="80" alt="DogeCash" title="DogeCash">
@@ -26,4 +28,6 @@ Nevertheless, we did extensive research into each competitive candidate to decid
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/mina.png" width="80" height="80" alt="Mina Protocol" title="Mina Protocol">
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/solana1.png" width="80" height="80" alt="Solana" title="Solana">
   <img style="margin:15px;" src="https://art3mis.cloud/assets/images/umee.png" width="80" height="80" alt="Umee" title="Umee">
+  <br><br>
+  <b><i>And more&hellip;</i></b>
 </div>
