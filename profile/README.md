@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://github.com/a3mc/.github/raw/master/profile/a3mc.png" title="ART3MIS.CLOUD" alt="A3MC" width="185" height="166" align="left"/>
-  <div align="left" style="text-indent:0">🌐 <b>Our international decentralized team is scattered around the globe, but united by same passion.</b><br>
+  <div align="left" style="text-indent:0">🌐 <b>Our international decentralized team is scattered around the globe, but united by same passion.</b><br><br>
     We encourage and support professional blockchain developers and scientists in the fields of mathematics, cryptography, programming languages and related interdisciplinary sub-fields, by using high-standard, industry quality tools and skills.
   </div>
 </div>
