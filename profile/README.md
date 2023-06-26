@@ -20,11 +20,9 @@ Nevertheless, we did extensive research into each competitive candidate to decid
 🔥 **We help build castles on a blockchain.**
 </div>
   
-<div style="background-color:#000000;" align="center">
+<div align="center">
 
-  
   ![a3mc1](https://github.com/a3mc/.github/assets/5249664/bc19183c-c63c-4d87-a06d-88c9c5bf1e77)
-
 </div>
 
 <br>
